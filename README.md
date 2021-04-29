@@ -1,4 +1,4 @@
-# golang-nextjs-portable
+# golang-nextjs-iot-portable
 
 **golang-nextjs-portable** is a small Go program to showcase the `embed` package
 for bundling a static HTML export of a Next.js app.
@@ -7,7 +7,7 @@ for bundling a static HTML export of a Next.js app.
 [article](https://v0x.nl/articles/portable-apps-go-nextjs) that walks
 through this project.
 
-<img src="https://v0x.nl/assets/articles/golang-nextjs-portable-og.png">
+<img src=".github/cap.png">
 
 ## Requirements
 
